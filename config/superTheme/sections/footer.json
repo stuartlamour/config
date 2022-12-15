@@ -1,0 +1,193 @@
+{
+    "id": "footer",
+    "title": "Footer",
+    "elements": [
+        {
+            "title": "Layout",
+            "type": "select",
+            "id": "footer_layout",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Footer Layout 1",
+                    "value": "1",
+                    "image": "footer-layout-1.svg"
+                },
+                {
+                    "key": "Footer Layout 2",
+                    "value": "2",
+                    "image": "footer-layout-2.svg"
+                },
+                {
+                    "key": "Footer Layout 3",
+                    "value": "3",
+                    "image": "footer-layout-3.svg"
+                },
+                {
+                    "key": "Footer Layout 3",
+                    "value": "4",
+                    "image": "footer-layout-4.svg"
+                }
+            ],
+            "isImageSelect": true
+        },
+        {
+            "title": "Logo",
+            "type": "fileUploader",
+            "id": "footer_logo_image",
+            "description": "",
+            "values": {
+                "23": "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/footer\/images\/uploads\/23\/footer_logo_image.png"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Background Colour",
+            "type": "colorPicker",
+            "id": "Background Colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(17,119,209,1)",
+                "value": {
+                    "r": 17,
+                    "g": 119,
+                    "b": 209,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Text Colour",
+            "type": "colorPicker",
+            "id": "footer_text_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 3,
+                    "g": 45,
+                    "b": 93,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(255,255,255,1)",
+                "value": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Link Colour",
+            "type": "colorPicker",
+            "id": "footer_link_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 17,
+                    "g": 119,
+                    "b": 209,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(245,245,245,1)",
+                "value": {
+                    "r": 245,
+                    "g": 245,
+                    "b": 245,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Footer Text Columns",
+            "type": "repeater",
+            "id": "footer_cols",
+            "description": "",
+            "enabled": true,
+            "elementGroup": [
+                {
+                    "title": "Title",
+                    "type": "input",
+                    "id": "footer-col-title",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "Contact"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Content",
+                    "type": "textArea",
+                    "id": "footer-col-summary",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "E-Innovation Centre, Telford TF2 9FT"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                }
+            ],
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Footnote",
+            "type": "textArea",
+            "id": "footer_footnote",
+            "description": "",
+            "values": {
+                "23": "Copyright Hubken Group"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="256" viewBox="0 0 1024 256">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="425.373" height="315.458" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-slide-layout-3">
+      <rect width="1024" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="slide-layout-3" clip-path="url(#clip-slide-layout-3)">
+    <rect width="1024" height="256" fill="#fff"/>
+    <g id="Logo" transform="translate(-81 -5)" opacity="0.6">
+      <rect id="bg" width="1024" height="256" transform="translate(81 5)" fill="#f4f5f6"/>
+      <g id="Symbol_2_3" data-name="Symbol 2 – 3" transform="translate(380.566 -18.227)" clip-path="url(#clip-path)">
+        <path id="Path_1" data-name="Path 1" d="M370.549,236.738,291.892,49.929,232.9,134.485,142.446-36.592,22.5,236.738Z" transform="translate(-22.495 78.72)" fill="#707070" opacity="0.2"/>
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="57.347" cy="57.347" rx="57.347" ry="57.347" transform="translate(310.678)" fill="#707070" opacity="0.2"/>
+      </g>
+    </g>
+    <rect id="Text_box" data-name="Text box" width="412" height="256" fill="#616161" opacity="0.37"/>
+    <g id="Btn" transform="translate(-367 3)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="181" height="46" transform="translate(418 155)" fill="#2e5ea2"/>
+      <path id="Path_7" data-name="Path 7" d="M72.822,0H3.625A3.471,3.471,0,0,0,0,3.625H0A3.471,3.471,0,0,0,3.625,7.25H72.5a3.471,3.471,0,0,0,3.625-3.625h0C76.554,1.493,74.955,0,72.822,0Z" transform="translate(470 174)" fill="#fff"/>
+    </g>
+    <g id="Text" transform="translate(-213 13)" opacity="0.6">
+      <g id="Group_1" data-name="Group 1" transform="translate(264 53)">
+        <path id="Path_3" data-name="Path 3" d="M153.767,0H4.6A4.4,4.4,0,0,0,0,4.6H0A4.4,4.4,0,0,0,4.6,9.2H153.226a4.4,4.4,0,0,0,4.6-4.6h0C158.365,1.893,156.472,0,153.767,0Z" transform="translate(0 0)" fill="#707070"/>
+        <path id="Path_4" data-name="Path 4" d="M155.07,0H128.7a4.4,4.4,0,0,0-4.6,4.6h0a4.4,4.4,0,0,0,4.6,4.6H155.07a4.4,4.4,0,0,0,4.6-4.6h0A4.4,4.4,0,0,0,155.07,0Z" transform="translate(43.732 0)" fill="#707070"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(264 90)">
+        <path id="Path_5" data-name="Path 5" d="M124.641,0H6.2A5.94,5.94,0,0,0,0,6.2H0a5.94,5.94,0,0,0,6.2,6.2H124.093a5.94,5.94,0,0,0,6.2-6.2h0C131.028,2.555,128.29,0,124.641,0Z" transform="translate(0 0)" fill="#707070"/>
+        <path id="Path_6" data-name="Path 6" d="M238.926,0H84.9a5.94,5.94,0,0,0-6.2,6.2h0a5.94,5.94,0,0,0,6.2,6.2H238.561a5.94,5.94,0,0,0,6.2-6.2h0C245.131,2.555,242.576,0,238.926,0Z" transform="translate(64.919 0)" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>

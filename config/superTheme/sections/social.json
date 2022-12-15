@@ -1,0 +1,81 @@
+{
+    "id": "social",
+    "title": "Social",
+    "elements": [
+        {
+            "title": "Facebook URL",
+            "type": "input",
+            "id": "social_profiles_facebook_url",
+            "description": "",
+            "values": {
+                "23": "#"
+            },
+            "enabled": false,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Twitter URL",
+            "type": "input",
+            "id": "social_profiles_twitter_url",
+            "description": "",
+            "values": {
+                "23": "#"
+            },
+            "enabled": false,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "LinkedIn URL",
+            "type": "input",
+            "id": "social_profiles_linkedin_url",
+            "description": "",
+            "values": {
+                "23": "#"
+            },
+            "enabled": false,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "YouTube Url",
+            "type": "input",
+            "id": "social_profiles_youtube_url",
+            "description": "",
+            "values": {
+                "23": "#"
+            },
+            "enabled": false,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Instagram Url",
+            "type": "input",
+            "id": "social_profiles_instagram_url",
+            "description": "",
+            "values": {
+                "23": "#"
+            },
+            "enabled": false,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

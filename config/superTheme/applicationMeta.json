@@ -1,0 +1,15 @@
+{
+    "title": "Super Theme",
+    "sectionOrder": [
+        "colors",
+        "typography",
+        "header",
+        "footer",
+        "social",
+        "login",
+        "front-page-slider",
+        "frontpagecontent",
+        "front-page-quick-links",
+        "front-page-logo-slider"
+    ]
+}

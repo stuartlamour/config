@@ -1,0 +1,261 @@
+{
+    "id": "typography",
+    "title": "Typography",
+    "elements": [
+        {
+            "title": "Body font size",
+            "type": "input",
+            "id": "typography_body_font_size",
+            "description": "Base font size in rem, em or px.",
+            "values": {
+                "23": "1rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1rem",
+                "value": "1rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H1 font size",
+            "type": "input",
+            "id": "typography_h1_font_size",
+            "description": "",
+            "values": {
+                "23": "2.5rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "2.5rem",
+                "value": "2.5rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H1 colour",
+            "type": "colorPicker",
+            "id": "typography_h1_text_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H2 font size",
+            "type": "input",
+            "id": "typography_h2_font_size",
+            "description": "",
+            "values": {
+                "23": "2rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "2rem",
+                "value": "2rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H2 colour",
+            "type": "colorPicker",
+            "id": "typography_h2_text_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H3 font size",
+            "type": "input",
+            "id": "typography_h3_font_size",
+            "description": "",
+            "values": {
+                "23": "1.75rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1.75rem",
+                "value": "1.75rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H3 colour",
+            "type": "colorPicker",
+            "id": "typography_h3_text_colour",
+            "description": "Set the text colour for H3's.",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H4 font size",
+            "type": "input",
+            "id": "typography_h4_font_size",
+            "description": "",
+            "values": {
+                "23": "1.5rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1.5rem",
+                "value": "1.5rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H4 colour",
+            "type": "colorPicker",
+            "id": "typography_h4_text_colour",
+            "description": "Set the text colour for H4's.",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H5 Font Size",
+            "type": "input",
+            "id": "typography_h5_font_size",
+            "description": "",
+            "values": {
+                "23": "1.25rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1.25rem",
+                "value": "1.25rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H5 colour",
+            "type": "colorPicker",
+            "id": "typography_h5_text_colour",
+            "description": "Set the text colour for H5's.",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H6 font size",
+            "type": "input",
+            "id": "typography_h6_font_size",
+            "description": "",
+            "values": {
+                "23": "1rem"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1rem",
+                "value": "1rem"
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "H6 colour",
+            "type": "colorPicker",
+            "id": "typography_h6_text_colour",
+            "description": "Set the text colour for H6's.",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

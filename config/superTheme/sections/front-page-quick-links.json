@@ -1,0 +1,307 @@
+{
+    "id": "front-page-quick-links",
+    "title": "Home page CTA section",
+    "elements": [
+        {
+            "title": "Visibility",
+            "type": "select",
+            "id": "fp_quicklinks_visibility",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Always Display",
+                    "value": "1"
+                },
+                {
+                    "key": "Display Before Login",
+                    "value": "2"
+                },
+                {
+                    "key": "Display After Login",
+                    "value": "3"
+                },
+                {
+                    "key": "Never Display",
+                    "value": "0"
+                }
+            ],
+            "isImageSelect": false
+        },
+        {
+            "title": "Background colour",
+            "type": "colorPicker",
+            "id": "fp_quicklinks_background_colour",
+            "description": "Tip: For no background and padding, select white.",
+            "values": {
+                "23": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(255,255,255,1)",
+                "value": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Title",
+            "type": "input",
+            "id": "fp_quicklinks_header",
+            "description": "Leave blank for no title.",
+            "values": {
+                "23": ""
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Title colour",
+            "type": "colorPicker",
+            "id": "fp_quicklinks_header_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Layout",
+            "type": "select",
+            "id": "fp_quicklinks_layout",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Quicklink Layout 1",
+                    "value": "1",
+                    "image": "quicklink-layout-1.svg"
+                },
+                {
+                    "key": "Quicklink Layout 2",
+                    "value": "2",
+                    "image": "quicklink-layout-2.svg"
+                },
+                {
+                    "key": "Quicklink Layout 3",
+                    "value": "3",
+                    "image": "quicklink-layout-3.svg"
+                },
+                {
+                    "key": "Quicklink Layout 4",
+                    "value": "4",
+                    "image": "quicklink-layout-4.svg"
+                }
+            ],
+            "isImageSelect": true
+        },
+        {
+            "title": "Call to action",
+            "type": "repeater",
+            "id": "quick_links",
+            "description": "",
+            "enabled": true,
+            "elementGroup": [
+                {
+                    "title": "Title",
+                    "type": "input",
+                    "id": "quick-link-title",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "Call to action 1",
+                            "Call to action 2",
+                            "Call to action 3"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Summary",
+                    "type": "textArea",
+                    "id": "quick-link-summary",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur semper molestie dui, a ultrices arcu vestibulum sed. Vestibulum vel magna euismod.",
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur semper molestie dui, a ultrices arcu vestibulum sed. Vestibulum vel magna euismod.",
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur semper molestie dui, a ultrices arcu vestibulum sed. Vestibulum vel magna euismod."
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Text colour",
+                    "type": "colorPicker",
+                    "id": "quick-link-color",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            },
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            },
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1
+                            }
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "rgba(255,255,255,1)",
+                        "value": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Background colour",
+                    "type": "colorPicker",
+                    "id": "quick-link-bg-color",
+                    "description": "For layout three this will act as an overlay to the image background.",
+                    "values": {
+                        "23": [
+                            {
+                                "r": 242,
+                                "g": 81,
+                                "b": 0,
+                                "a": 1
+                            },
+                            {
+                                "r": 3,
+                                "g": 45,
+                                "b": 93,
+                                "a": 1
+                            },
+                            {
+                                "r": 112,
+                                "g": 142,
+                                "b": 27,
+                                "a": 1
+                            }
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "rgba(17,119,209,1)",
+                        "value": {
+                            "r": 17,
+                            "g": 119,
+                            "b": 209,
+                            "a": 1
+                        }
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Image",
+                    "type": "fileUploader",
+                    "id": "quick-link-image-url",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-quick-links\/images\/uploads\/23\/quick_links-0.png",
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-quick-links\/images\/uploads\/23\/quick_links-1.png",
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-quick-links\/images\/uploads\/23\/quick_links-2.png"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "URL",
+                    "type": "input",
+                    "id": "quick-link-url",
+                    "description": "URL for the link.",
+                    "values": {
+                        "23": [
+                            "#",
+                            "#",
+                            "#"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                }
+            ],
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

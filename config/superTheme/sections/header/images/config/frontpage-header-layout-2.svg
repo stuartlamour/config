@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="132" viewBox="0 0 1024 132">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="44.505" height="33.005" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="18.056" height="14" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-frontpage-header-layout-2">
+      <rect width="1024" height="132"/>
+    </clipPath>
+  </defs>
+  <g id="frontpage-header-layout-2" clip-path="url(#clip-frontpage-header-layout-2)">
+    <rect width="1024" height="132" fill="#fff"/>
+    <g id="Logo" transform="translate(-7 19)">
+      <rect id="bg" width="181.699" height="82" transform="translate(81 5)" fill="#f4f5f6"/>
+      <g id="Symbol_2_3" data-name="Symbol 2 – 3" transform="translate(148.827 29.296)" clip-path="url(#clip-path)">
+        <path id="Path_1" data-name="Path 1" d="M58.91-8,50.681-27.54l-6.172,8.847-9.464-17.9L22.5-8Z" transform="translate(-22.495 41)" fill="#707070"/>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(32.505)" fill="#707070"/>
+      </g>
+    </g>
+    <g id="Usermenu" transform="translate(-877 18)">
+      <g id="Default_icon" data-name="Default icon" transform="translate(9)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="17" cy="17" r="17" transform="translate(1824 8)" fill="#fff"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="9" cy="9" r="9" transform="translate(1832 28)" fill="#dee1e2"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="6" cy="6" r="6" transform="translate(1835 18)" fill="#dee1e2"/>
+      </g>
+      <path id="Carat" d="M7,0V7H0Z" transform="translate(1881.95 21) rotate(45)" fill="#707070"/>
+      <g id="Group_4" data-name="Group 4" transform="translate(1716 24)">
+        <path id="Path_7" data-name="Path 7" d="M54.434,0H3.165C1.266,0,0,1,0,2.4H0C0,3.8,1.266,4.8,3.038,4.8H54.307c1.772,0,3.038-1,3.038-2.4h0C57.345,1,56.079,0,54.434,0Z" fill="#707070"/>
+        <path id="Path_8" data-name="Path 8" d="M93.14,0h-40C51.366,0,50.1,1,50.1,2.4h0c0,1.4,1.266,2.4,3.038,2.4h40c1.772,0,3.038-1,3.038-2.4h0C96.179,1,94.913,0,93.14,0Z" transform="translate(13.321)" fill="#707070"/>
+      </g>
+    </g>
+    <g id="Nav_drawer_button" data-name="Nav drawer button" transform="translate(3.972 31)">
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(16 23)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-34.5 -20.5)">
+          <line id="Line_1" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g transform="translate(-21.5 -20.5)">
+          <line id="Line_1-2" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g transform="translate(-34.5 -14.5)">
+          <line id="Line_1-3" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g transform="translate(-21.5 -14.5)">
+          <line id="Line_1-4" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g transform="translate(-34.5 -8.5)">
+          <line id="Line_1-5" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g transform="translate(-21.5 -8.5)">
+          <line id="Line_1-6" data-name="Line 1" x2="13" transform="translate(34.5 21.5)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+    <path id="comment" d="M8.17,32C3.657,32,0,34.971,0,38.638A5.892,5.892,0,0,0,1.819,42.81,8.119,8.119,0,0,1,.07,45.867a.254.254,0,0,0-.048.278.25.25,0,0,0,.233.153,7.3,7.3,0,0,0,4.487-1.64,9.733,9.733,0,0,0,3.428.619c4.513,0,8.17-2.971,8.17-6.638S12.683,32,8.17,32Z" transform="translate(801.015 6)" fill="#7f7f7f"/>
+    <path id="bell" d="M13.329,11.245C12.646,10.562,11.8,9.711,11.8,6.39A4.916,4.916,0,0,0,7.691,1.541a.983.983,0,1,0-1.618,0A4.916,4.916,0,0,0,1.966,6.39c0,3.321-.849,4.172-1.533,4.856a1.476,1.476,0,0,0,1.043,2.517H4.915a1.966,1.966,0,0,0,3.932,0h3.439A1.476,1.476,0,0,0,13.329,11.245ZM6.881,14.5a.246.246,0,0,1,0,.492,1.23,1.23,0,0,1-1.229-1.229h.492A.738.738,0,0,0,6.881,14.5Z" transform="translate(760.548 37)" fill="#7f7f7f"/>
+    <path id="Path_9" data-name="Path 9" d="M0,60" transform="translate(630.5 -50)" fill="none" stroke="#f5f5f5" stroke-width="1"/>
+    <g id="Menu_text" data-name="Menu text" transform="translate(649 75)">
+      <path id="Path_7-2" data-name="Path 7" d="M86.376,0H5.022C2.009,0,0,1.587,0,3.808H0C0,6.03,2.009,7.617,4.821,7.617H86.175C88.987,7.617,91,6.03,91,3.808h0C91,1.587,88.987,0,86.376,0Z" fill="#707070"/>
+      <path id="Path_8-2" data-name="Path 8" d="M118.4,0H54.921C52.109,0,50.1,1.587,50.1,3.808h0c0,2.222,2.009,3.808,4.821,3.808H118.4c2.812,0,4.821-1.587,4.821-3.808h0C123.218,1.587,121.209,0,118.4,0Z" transform="translate(50.538)" fill="#707070"/>
+      <path id="Path_9-2" data-name="Path 9" d="M86.376,0H5.022C2.009,0,0,1.587,0,3.808H0C0,6.03,2.009,7.617,4.821,7.617H86.175C88.987,7.617,91,6.03,91,3.808h0C91,1.587,88.987,0,86.376,0Z" transform="translate(187.244)" fill="#707070"/>
+      <path id="Path_10" data-name="Path 10" d="M118.4,0H54.921C52.109,0,50.1,1.587,50.1,3.808h0c0,2.222,2.009,3.808,4.821,3.808H118.4c2.812,0,4.821-1.587,4.821-3.808h0C123.218,1.587,121.209,0,118.4,0Z" transform="translate(237.782)" fill="#707070"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 22)">
+      <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(606 7)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="104" height="27" stroke="none"/>
+        <rect x="0.5" y="0.5" width="103" height="26" fill="none"/>
+      </g>
+      <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(708 7)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="30" height="27" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29" height="26" fill="none"/>
+      </g>
+      <g id="Search" transform="translate(116 -10)">
+        <path id="search-2" data-name="search" d="M15.621,14.4l-3.729-3.729a.365.365,0,0,0-.261-.108h-.405a6.388,6.388,0,1,0-.657.657v.405a.378.378,0,0,0,.108.261L14.4,15.621a.369.369,0,0,0,.522,0l.694-.694A.369.369,0,0,0,15.621,14.4ZM6.39,11.3A4.915,4.915,0,1,1,11.3,6.39,4.914,4.914,0,0,1,6.39,11.3Z" transform="translate(599 23)" fill="#707070"/>
+      </g>
+      <line id="Line_6" data-name="Line 6" x2="132" transform="translate(605.5 33.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

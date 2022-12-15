@@ -1,0 +1,277 @@
+{
+    "id": "front-page-slider",
+    "title": "Home page Hero section",
+    "elements": [
+        {
+            "title": "Visibility",
+            "type": "select",
+            "id": "fp_slider_visibility",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Always Display",
+                    "value": "1"
+                },
+                {
+                    "key": "Display Before Login",
+                    "value": "2"
+                },
+                {
+                    "key": "Display After Login",
+                    "value": "3"
+                },
+                {
+                    "key": "Never Display",
+                    "value": "0"
+                }
+            ],
+            "isImageSelect": false
+        },
+        {
+            "title": "Height",
+            "type": "select",
+            "id": "fp_slider_height",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Small - 350px",
+                    "value": "1"
+                },
+                {
+                    "key": "Medium - 500px",
+                    "value": "2"
+                },
+                {
+                    "key": "Large - 650px",
+                    "value": "3"
+                }
+            ],
+            "isImageSelect": false
+        },
+        {
+            "title": "Layout",
+            "type": "select",
+            "id": "fp_slider_layout",
+            "description": "",
+            "values": {
+                "23": "3"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "3",
+                "value": "3"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Slide Layout 1",
+                    "value": "1",
+                    "image": "slide-layout-1.svg"
+                },
+                {
+                    "key": "Slide Layout 2",
+                    "value": "2",
+                    "image": "slide-layout-2.svg"
+                },
+                {
+                    "key": "Slide Layout 3",
+                    "value": "3",
+                    "image": "slide-layout-3.svg"
+                }
+            ],
+            "isImageSelect": true
+        },
+        {
+            "title": "Background colour",
+            "type": "colorPicker",
+            "id": "fp_slider_background_colour",
+            "description": "Background colour when no image.",
+            "values": {
+                "23": {
+                    "r": 4,
+                    "g": 45,
+                    "b": 93,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(4,45,93,1)",
+                "value": {
+                    "r": 4,
+                    "g": 45,
+                    "b": 93,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Slide",
+            "type": "repeater",
+            "id": "slides",
+            "description": "Add more than one slide to create a carousel, or a single slide for a banner.",
+            "enabled": true,
+            "elementGroup": [
+                {
+                    "title": "Slide image",
+                    "type": "fileUploader",
+                    "id": "slide-image",
+                    "description": "1200px width x the height set above.",
+                    "values": {
+                        "23": [
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-slider\/images\/uploads\/23\/slides-0.jpeg"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide title",
+                    "type": "input",
+                    "id": "slide_title_large",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "Hubken Demonstration Site"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide content",
+                    "type": "input",
+                    "id": "slide_title_small",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            "Explore the site for information about features and services"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide CTA button",
+                    "type": "input",
+                    "id": "slide_button_text",
+                    "description": "Text for a call to action link to a URL.",
+                    "values": {
+                        "23": [
+                            "Read More"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide CTA URL",
+                    "type": "input",
+                    "id": "slide-url",
+                    "description": "URL for the call to action link.",
+                    "values": {
+                        "23": [
+                            "#"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide content text colour",
+                    "type": "colorPicker",
+                    "id": "title_text_colour",
+                    "description": "",
+                    "values": {
+                        "23": [
+                            {
+                                "r": 33,
+                                "g": 37,
+                                "b": 41,
+                                "a": 1
+                            }
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "rgba(33,37,41,1)",
+                        "value": {
+                            "r": 33,
+                            "g": 37,
+                            "b": 41,
+                            "a": 1
+                        }
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Slide content background colour",
+                    "type": "colorPicker",
+                    "id": "slide_overlay",
+                    "description": "Tip: The alpha (A) channel in the colour picker lets you set the opactity or 'transparency' of a colour. Set this to 1 for no opactity, 0.9-0.1 for levels of opacity, and 0 for no background colour (fully opaque).",
+                    "values": {
+                        "23": [
+                            {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 0.6
+                            }
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "rgba(255,255,255,1)",
+                        "value": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "requiresPageReloadOnChange": true
+                }
+            ],
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "id": "front-page-logo-slider",
+    "title": "Home page Logo cloud",
+    "elements": [
+        {
+            "title": "Visibility",
+            "type": "select",
+            "id": "fp_logo_slider_visibility",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "2",
+                "value": "2"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Always Display",
+                    "value": "1"
+                },
+                {
+                    "key": "Display Before Login Only",
+                    "value": "2"
+                },
+                {
+                    "key": "Display After Login Only",
+                    "value": "3"
+                },
+                {
+                    "key": "Never Display",
+                    "value": "0"
+                }
+            ],
+            "isImageSelect": false
+        },
+        {
+            "title": "Title",
+            "type": "textArea",
+            "id": "fp_logo_slider_title",
+            "description": "Leave blank for no title.",
+            "values": {
+                "23": "Our accreditations"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Content",
+            "type": "textArea",
+            "id": "fp_logo_slider_summary",
+            "description": "",
+            "values": {
+                "23": ""
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Background colour",
+            "type": "colorPicker",
+            "id": "fp_logo_slider_bg_colour",
+            "description": "Tip: For no background and padding, select white.",
+            "values": {
+                "23": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(255,255,255,1)",
+                "value": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Text colour",
+            "type": "colorPicker",
+            "id": "fp_logo_slider_text_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Logo",
+            "type": "repeater",
+            "id": "slides",
+            "description": "",
+            "enabled": true,
+            "elementGroup": [
+                {
+                    "title": "Logo",
+                    "type": "fileUploader",
+                    "id": "slide-image",
+                    "description": "Logos will be resized to a max of 250px width and 100px height.",
+                    "values": {
+                        "23": [
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-logo-slider\/images\/uploads\/23\/slides-0.png",
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-logo-slider\/images\/uploads\/23\/slides-1.jpg",
+                            "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/front-page-logo-slider\/images\/uploads\/23\/slides-2.png"
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "URL",
+                    "type": "input",
+                    "id": "slide-url",
+                    "description": "URL for the image if required.",
+                    "values": {
+                        "23": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                }
+            ],
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

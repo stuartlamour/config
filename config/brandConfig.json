@@ -1,0 +1,11 @@
+{
+    "brandToCohortMap": [
+        {
+            "id": 23,
+            "brand": "Hubken Branding",
+            "cohortIds": []
+        }
+    ],
+    "defaultBrand": 23,
+    "maxNumberOfBrands": 1
+}

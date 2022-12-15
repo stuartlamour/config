@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="374" viewBox="0 0 1024 374">
+  <defs>
+    <clipPath id="clip-footer-layout-2">
+      <rect width="1024" height="374"/>
+    </clipPath>
+  </defs>
+  <g id="footer-layout-2" clip-path="url(#clip-footer-layout-2)">
+    <rect width="1024" height="374" fill="#fff"/>
+    <g id="Logo" transform="translate(-81 -5)" opacity="0.6">
+      <rect id="bg" width="1024" height="294.985" transform="translate(81 5)" fill="#373737"/>
+    </g>
+    <text id="dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_nisl._Curabitur_rutrum_eu_odio_in_molestie._Vestibulum_et_purus_eget_elit_porttitor_lacinia_a_tristique" data-name="dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque nisl. Curabitur rutrum eu odio in molestie. Vestibulum et purus eget elit porttitor lacinia a tristique" transform="translate(273.707 32.869)" fill="#fff" font-size="21" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="13">dictum, aliquet </tspan><tspan x="0" y="42">feugiat magna. </tspan><tspan x="0" y="71">Proin ac mauris </tspan><tspan x="0" y="100">in massa </tspan><tspan x="0" y="129">euismod </tspan><tspan x="0" y="158">sollicitudin eget </tspan><tspan x="0" y="187">quis neque. </tspan><tspan x="0" y="216">Mauris sit amet </tspan></text>
+    <text id="dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_nisl._Curabitur_rutrum_eu_odio_in_molestie._Vestibulum_et_purus_eget_elit_porttitor_lacinia_a_tristique-2" data-name="dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque nisl. Curabitur rutrum eu odio in molestie. Vestibulum et purus eget elit porttitor lacinia a tristique" transform="translate(523.707 32.869)" fill="#fff" font-size="21" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="13">dictum, aliquet </tspan><tspan x="0" y="42">feugiat magna. </tspan><tspan x="0" y="71">Proin ac mauris </tspan><tspan x="0" y="100">in massa </tspan><tspan x="0" y="129">euismod </tspan><tspan x="0" y="158">sollicitudin eget </tspan><tspan x="0" y="187">quis neque. </tspan><tspan x="0" y="216">Mauris sit amet </tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="158.37" height="115.493" transform="translate(44.225 32)" fill="#e8e8e8"/>
+    <g id="Symbol_1_1" data-name="Symbol 1 – 1" transform="translate(90.512 73.429)">
+      <path id="Path_1" data-name="Path 1" d="M58.511-8.309l-8.139-19.33-6.1,8.749-9.36-17.7L22.5-8.309Z" transform="translate(-11.495 40.952)" fill="#707070"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="5.934" cy="5.934" rx="5.934" ry="5.934" transform="translate(32.148 0)" fill="#707070"/>
+    </g>
+    <text id="dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_nisl._Curabitur_rutrum_eu_odio_in_molestie._Vestibulum_et_purus_eget_elit_porttitor_lacinia_a_tristique-3" data-name="dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque nisl. Curabitur rutrum eu odio in molestie. Vestibulum et purus eget elit porttitor lacinia a tristique" transform="translate(744.707 32.869)" fill="#fff" font-size="21" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="13">dictum, aliquet </tspan><tspan x="0" y="42">feugiat magna. </tspan><tspan x="0" y="71">Proin ac mauris </tspan><tspan x="0" y="100">in massa </tspan><tspan x="0" y="129">euismod </tspan><tspan x="0" y="158">sollicitudin eget </tspan><tspan x="0" y="187">quis neque. </tspan><tspan x="0" y="216">Mauris sit amet </tspan></text>
+    <g id="Logo-2" data-name="Logo" transform="translate(-81 289.985)" opacity="0.6">
+      <rect id="bg-2" data-name="bg" width="1024" height="79" transform="translate(81 5)" fill="#4a4a4a"/>
+    </g>
+    <g id="Social_Media_Links" data-name="Social Media Links" transform="translate(-710.572 154.814)">
+      <g id="fb" transform="translate(755 17)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="15.686" cy="15.686" r="15.686" fill="#fff"/>
+      </g>
+      <g id="tw" transform="translate(797.257 17)">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="15.686" cy="15.686" r="15.686" fill="#fff"/>
+      </g>
+      <g id="li" transform="translate(839.514 17)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="15.686" cy="15.686" r="15.686" fill="#fff"/>
+      </g>
+      <g id="Yt" transform="translate(881.772 17)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="15.686" cy="15.686" r="15.686" fill="#fff"/>
+      </g>
+    </g>
+    <text id="dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_nisl._Curabitur_rutrum_eu_odio_in_molestie._Vestibulum_et_purus_eget_elit_porttitor_lacinia_a_tristique-4" data-name="dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque nisl. Curabitur rutrum eu odio in molestie. Vestibulum et purus eget elit porttitor lacinia a tristique" transform="translate(54.707 328.4)" fill="#fff" font-size="31" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="20">dictum, aliquet </tspan></text>
+    <text id="tellus_at_laoreet_tortor._Sed_rutrum_justo_sed_tempus_gravida._Donec_metus_nulla_efficitur_et_enim_dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_ni" data-name="tellus at, laoreet tortor. Sed rutrum justo sed tempus gravida. Donec metus nulla, efficitur et enim dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque ni" transform="translate(262.167 328.4)" fill="#fff" font-size="31" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="20">tellus at, laoreet </tspan></text>
+    <text id="tellus_at_laoreet_tortor._Sed_rutrum_justo_sed_tempus_gravida._Donec_metus_nulla_efficitur_et_enim_dictum_aliquet_feugiat_magna._Proin_ac_mauris_in_massa_euismod_sollicitudin_eget_quis_neque._Mauris_sit_amet_neque_luctus_posuere_odio_id_scelerisque_ni-2" data-name="tellus at, laoreet tortor. Sed rutrum justo sed tempus gravida. Donec metus nulla, efficitur et enim dictum, aliquet feugiat magna. Proin ac mauris in massa euismod sollicitudin eget quis neque. Mauris sit amet neque luctus, posuere odio id, scelerisque ni" transform="translate(709.167 328.4)" fill="#fff" font-size="31" font-family="Flow-Circular, Flow Circular"><tspan x="0" y="20">tellus at, laoreet </tspan></text>
+  </g>
+</svg>

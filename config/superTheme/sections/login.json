@@ -1,0 +1,51 @@
+{
+    "id": "login",
+    "title": "Login page",
+    "elements": [
+        {
+            "title": "Background image",
+            "type": "fileUploader",
+            "id": "login_background_image",
+            "description": "",
+            "values": {
+                "23": "\/public\/hubkenconfigurator\/config\/superTheme\/sections\/login\/images\/uploads\/23\/login_background_image.jpg"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Form alignment",
+            "type": "select",
+            "id": "login_form_align",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "1",
+                "value": "1"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Left",
+                    "value": "1"
+                },
+                {
+                    "key": "Centre",
+                    "value": "2"
+                },
+                {
+                    "key": "Right",
+                    "value": "3"
+                }
+            ],
+            "isImageSelect": false
+        }
+    ]
+}

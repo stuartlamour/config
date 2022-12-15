@@ -1,0 +1,185 @@
+{
+    "id": "frontpagecontent",
+    "title": "Home page text",
+    "elements": [
+        {
+            "title": "Visibility",
+            "type": "select",
+            "id": "fp_content_visibility",
+            "description": "",
+            "values": {
+                "23": "1"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "2",
+                "value": "2"
+            },
+            "requiresPageReloadOnChange": true,
+            "options": [
+                {
+                    "key": "Always Display",
+                    "value": "1"
+                },
+                {
+                    "key": "Display Before Login",
+                    "value": "2"
+                },
+                {
+                    "key": "Display After Login",
+                    "value": "3"
+                },
+                {
+                    "key": "Never Display",
+                    "value": "0"
+                }
+            ],
+            "isImageSelect": false
+        },
+        {
+            "title": "Title",
+            "type": "input",
+            "id": "fp_content_title",
+            "description": "",
+            "values": {
+                "23": "Announcements"
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Content",
+            "type": "textArea",
+            "id": "fp_content_text",
+            "description": "",
+            "values": {
+                "23": "This is a space for useful information or announcements."
+            },
+            "enabled": true,
+            "default": {
+                "readable": "",
+                "value": ""
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Background colour",
+            "type": "colorPicker",
+            "id": "fp_content_background_colour",
+            "description": "Tip: For no background and padding, select white.",
+            "values": {
+                "23": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(248, 249, 250, 1)",
+                "value": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Title colour",
+            "type": "colorPicker",
+            "id": "fp_content_title_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Content colour",
+            "type": "colorPicker",
+            "id": "fp_content_text_colour",
+            "description": "",
+            "values": {
+                "23": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "enabled": true,
+            "default": {
+                "readable": "rgba(33,37,41,1)",
+                "value": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41,
+                    "a": 1
+                }
+            },
+            "requiresPageReloadOnChange": true
+        },
+        {
+            "title": "Columns",
+            "type": "repeater",
+            "id": "fp_content_cols",
+            "description": "",
+            "enabled": true,
+            "elementGroup": [
+                {
+                    "title": "Title",
+                    "type": "input",
+                    "id": "fp-content-col-title",
+                    "description": "",
+                    "values": {
+                        "23": []
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                },
+                {
+                    "title": "Content",
+                    "type": "textArea",
+                    "id": "fp-content-col-summary",
+                    "description": "",
+                    "values": {
+                        "23": []
+                    },
+                    "enabled": true,
+                    "default": {
+                        "readable": "",
+                        "value": ""
+                    },
+                    "requiresPageReloadOnChange": true
+                }
+            ],
+            "requiresPageReloadOnChange": true
+        }
+    ]
+}

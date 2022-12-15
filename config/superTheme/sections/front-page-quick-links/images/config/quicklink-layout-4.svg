@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="358" viewBox="0 0 1024 358">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1024" height="358" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="94.757" height="70.272" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Item" clip-path="url(#clip-path)">
+    <g id="Item-2" data-name="Item">
+      <rect id="BG" width="336" height="358" fill="#616161" opacity="0.05"/>
+      <g id="Btn" transform="translate(51 284)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="181" height="46" fill="#2e5ea2"/>
+        <path id="Path_7" data-name="Path 7" d="M72.822,0H3.625A3.471,3.471,0,0,0,0,3.625H0A3.471,3.471,0,0,0,3.625,7.25H72.5a3.471,3.471,0,0,0,3.625-3.625h0C76.554,1.493,74.955,0,72.822,0Z" transform="translate(52 19.4)" fill="#fff"/>
+      </g>
+      <g id="Text" transform="translate(51 153.412)">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="247" height="22" transform="translate(0 19.588)" fill="#464040"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="247" height="11" transform="translate(0 55.588)" fill="#777070"/>
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" width="162" height="11" transform="translate(0 79.588)" fill="#777070"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="78" height="11" transform="translate(169 79.588)" fill="#777070"/>
+        <rect id="Rectangle_10-3" data-name="Rectangle 10" width="52" height="11" transform="translate(0 103.588)" fill="#777070"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="91" height="11" transform="translate(59 103.588)" fill="#777070"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="90" height="11" transform="translate(157 103.588)" fill="#777070"/>
+      </g>
+      <g id="Logo" transform="translate(115.5 44.296)" opacity="0.6">
+        <g id="Symbol_2_16" data-name="Symbol 2 – 16" clip-path="url(#clip-path-2)" style="isolation: isolate">
+          <path id="Path_1" data-name="Path 1" d="M100.029,24.3,82.507-17.318,69.366,1.517l-20.15-38.11L22.5,24.3Z" transform="translate(-22.495 45.977)" fill="#131111" opacity="0.2"/>
+          <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="12.775" cy="12.775" rx="12.775" ry="12.775" transform="translate(69.207)" fill="#131111" opacity="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Item-3" data-name="Item" transform="translate(344)">
+      <rect id="BG-2" data-name="BG" width="336" height="358" fill="#616161" opacity="0.05"/>
+      <g id="Btn-2" data-name="Btn" transform="translate(51 284)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="181" height="46" fill="#2e5ea2"/>
+        <path id="Path_7-2" data-name="Path 7" d="M72.822,0H3.625A3.471,3.471,0,0,0,0,3.625H0A3.471,3.471,0,0,0,3.625,7.25H72.5a3.471,3.471,0,0,0,3.625-3.625h0C76.554,1.493,74.955,0,72.822,0Z" transform="translate(52 19.4)" fill="#fff"/>
+      </g>
+      <g id="Text-2" data-name="Text" transform="translate(51 153.412)">
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="247" height="22" transform="translate(0 19.588)" fill="#464040"/>
+        <rect id="Rectangle_10-4" data-name="Rectangle 10" width="247" height="11" transform="translate(0 55.588)" fill="#777070"/>
+        <rect id="Rectangle_10-5" data-name="Rectangle 10" width="162" height="11" transform="translate(0 79.588)" fill="#777070"/>
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" width="78" height="11" transform="translate(169 79.588)" fill="#777070"/>
+        <rect id="Rectangle_10-6" data-name="Rectangle 10" width="52" height="11" transform="translate(0 103.588)" fill="#777070"/>
+        <rect id="Rectangle_12-2" data-name="Rectangle 12" width="91" height="11" transform="translate(59 103.588)" fill="#777070"/>
+        <rect id="Rectangle_13-2" data-name="Rectangle 13" width="90" height="11" transform="translate(157 103.588)" fill="#777070"/>
+      </g>
+      <g id="Logo-2" data-name="Logo" transform="translate(115.5 44.296)" opacity="0.6">
+        <g id="Symbol_2_17" data-name="Symbol 2 – 17" clip-path="url(#clip-path-2)" style="isolation: isolate">
+          <path id="Path_1-2" data-name="Path 1" d="M100.029,24.3,82.507-17.318,69.366,1.517l-20.15-38.11L22.5,24.3Z" transform="translate(-22.495 45.977)" fill="#131111" opacity="0.2"/>
+          <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="12.775" cy="12.775" rx="12.775" ry="12.775" transform="translate(69.207)" fill="#131111" opacity="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Item-4" data-name="Item" transform="translate(688)">
+      <rect id="BG-3" data-name="BG" width="336" height="358" fill="#616161" opacity="0.05"/>
+      <g id="Btn-3" data-name="Btn" transform="translate(51 284)">
+        <rect id="Rectangle_4-3" data-name="Rectangle 4" width="181" height="46" fill="#2e5ea2"/>
+        <path id="Path_7-3" data-name="Path 7" d="M72.822,0H3.625A3.471,3.471,0,0,0,0,3.625H0A3.471,3.471,0,0,0,3.625,7.25H72.5a3.471,3.471,0,0,0,3.625-3.625h0C76.554,1.493,74.955,0,72.822,0Z" transform="translate(52 19.4)" fill="#fff"/>
+      </g>
+      <g id="Text-3" data-name="Text" transform="translate(51 153.412)">
+        <rect id="Rectangle_9-3" data-name="Rectangle 9" width="247" height="22" transform="translate(0 19.588)" fill="#464040"/>
+        <rect id="Rectangle_10-7" data-name="Rectangle 10" width="247" height="11" transform="translate(0 55.588)" fill="#777070"/>
+        <rect id="Rectangle_10-8" data-name="Rectangle 10" width="162" height="11" transform="translate(0 79.588)" fill="#777070"/>
+        <rect id="Rectangle_11-3" data-name="Rectangle 11" width="78" height="11" transform="translate(169 79.588)" fill="#777070"/>
+        <rect id="Rectangle_10-9" data-name="Rectangle 10" width="52" height="11" transform="translate(0 103.588)" fill="#777070"/>
+        <rect id="Rectangle_12-3" data-name="Rectangle 12" width="91" height="11" transform="translate(59 103.588)" fill="#777070"/>
+        <rect id="Rectangle_13-3" data-name="Rectangle 13" width="90" height="11" transform="translate(157 103.588)" fill="#777070"/>
+      </g>
+      <g id="Logo-3" data-name="Logo" transform="translate(115.5 44.296)" opacity="0.6">
+        <g id="Symbol_2_18" data-name="Symbol 2 – 18" clip-path="url(#clip-path-2)" style="isolation: isolate">
+          <path id="Path_1-3" data-name="Path 1" d="M100.029,24.3,82.507-17.318,69.366,1.517l-20.15-38.11L22.5,24.3Z" transform="translate(-22.495 45.977)" fill="#131111" opacity="0.2"/>
+          <ellipse id="Ellipse_1-3" data-name="Ellipse 1" cx="12.775" cy="12.775" rx="12.775" ry="12.775" transform="translate(69.207)" fill="#131111" opacity="0.2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
